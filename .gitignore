@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Скачанные файлы
+downloads/
+*.mp3
+*.mp4
+
+# API ключи (если вдруг)
+.env
+*.key
+config.json
+
+# Логи
+*.log
+
+# ОС
+.DS_Store
+Thumbs.db
